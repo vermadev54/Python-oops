@@ -21,7 +21,7 @@ print(dd.classy)  # < This should return the string "class value"
 
 dd.classy = "Instance value"
 print(dd.classy)    # This should return the str
-# ing "Instance value"
+# pring "Instance value"
 
 # This will delete the value set for 'dd.classy' in the instance.
 del dd.classy
